@@ -1,0 +1,8 @@
+.rounded-image {
+    border-radius: 50%;
+    overflow: hidden;
+    margin-left: auto; 
+    margin-right: auto;
+    width: 500px; 
+    height: 500px;
+}
